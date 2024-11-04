@@ -1,5 +1,5 @@
 body{
-  background-color: #c300ff;
+  background-color: #fd00fd;
 }
 
 
@@ -126,9 +126,9 @@ body{
       position: relative;
       width: 120px;
       padding: 10px;
-      background: #03A9F4;
+      background: #fd00fd;
       box-shadow: 1px 5px 15px -2px rgba(0,0,0,0.2);
-      color: #e100ff;
+      color: #fd00fd;
       text-decoration: none;
       border-radius: 2px;
     display: block;

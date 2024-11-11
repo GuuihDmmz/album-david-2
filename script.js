@@ -64,7 +64,7 @@
       if (userAnswer === currentQuestion.correctAnswer) {
         // add to the number of correct answers
         numCorrect++;
-        window.location.href("fts/index.html");
+        window.location.href("fotos.html");
         // color the answers green
         answerContainers[questionNumber].style.color = "lightgreen";
       }else {

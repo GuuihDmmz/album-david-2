@@ -64,9 +64,10 @@
       if (userAnswer === currentQuestion.correctAnswer) {
         // add to the number of correct answers
         numCorrect++;
-        window.location.href("fotos.html");
+    
         // color the answers green
         answerContainers[questionNumber].style.color = "lightgreen";
+        window.location.href = "fotos.html";
       }else {
         // if answer is wrong or blank
         // color the answers red
